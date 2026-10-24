@@ -11,13 +11,13 @@ Always write for a text thread: short messages, one idea each, links on their ow
 
 ## 1. Set up (first time only)
 
-Check memory for saved preferences. If there are none, ask these one at a time. Skip anything the student already told you, or anything you can already see from their connected accounts.
+Check memory for preferences saved by earlier use of THIS Skill. On the first use of this Skill, ALWAYS ask the questions below, one at a time, even if Cubbie already knows other things about the student. Only skip a question if its answer was saved by an earlier use of this Skill. The one exception is the campus: if Cubbie already knows it, use it and skip question 1.
 
 1. Which ASU campus: Tempe, Polytechnic, Downtown Phoenix or West Valley.
 2. What they want to hear about: free food, coffee and drinks, clothing, beauty, tech, events, or everything.
 3. Any diet needs, such as vegetarian, vegan, halal or gluten-free.
-4. How often they want freebie texts without asking: every day, every other day, weekdays only, or only when I ask.
-5. If they chose a schedule, what time. Suggest a time that fits their day, for example just before their usual lunch break if you can see their classes, otherwise 5 pm Arizona time.
+4. How often they want freebie texts without asking: every day, every other day, weekdays only, or only when I ask. Always ask this if no freebie schedule is saved for this Skill.
+5. If they chose a schedule, what time. Always ask this if no time is saved for this Skill. Suggest a time that fits their day, for example just before their usual lunch break if you can see their classes, otherwise 5 pm Arizona time.
 
 Remember all answers. If they chose a schedule, create a scheduled check-in at that time and frequency that runs "Find freebies" and texts the results, so they never have to ask. Confirm in one line, for example: "Done. Freebies every weekday at 11:30 am, starting tomorrow 💸". Then run "Find freebies" right away, without asking for confirmation.
 
@@ -32,7 +32,7 @@ Before every search, use whatever the student has already connected. If somethin
 - **Busy days (Canvas due dates and exams):** on exam or deadline days, keep the message to the single best item, or skip the scheduled text if nothing is quick and nearby.
 - **Memory:** use their saved interests, diet, campus, stores and past choices. If they ignored or disliked a kind of item before, show fewer of those.
 
-When an item is personalized, give the reason as one of the 2 details on line 2, for example "near your 1 pm class" or "CS club", within the 8-word limit.
+When an item fits the student personally, add one personal detail to line 2, for example "near your 1 pm class" or "CS club", within the 8-word limit in section 3.
 
 ## 2. Find freebies
 
@@ -46,11 +46,21 @@ Open and read the actual page for every candidate. Keep an item only if the page
 
 ## 3. Send the results
 
-Send the top 3 items, each as its own message, at most 2 short lines, then the link on its own line:
+Send the top 3 items, each as its own message. HARD RULE: exactly 2 lines of text per item, never a third, then the link on its own line:
 
-- Line 1: an emoji and what it is, in 8 words or fewer, with the time if any.
-- Line 2: where, then at most 2 short details from: how to get there (for example "8 min walk" or "free Orbit shuttle"), or why it fits them (for example "near your 1 pm class"). Max 8 words after the place.
-- Add a catch only if it changes whether the student would go, in 6 words or fewer.
+- Line 1: an emoji and what it is, in 8 words or fewer, with the day and time if any.
+- Line 2: where, then ALWAYS how to get there (walk time, free shuttle or light rail), plus one personal detail when one fits (for example "near your 1 pm class"). Max 8 words after the place.
+- Add a catch only if it changes whether the student would go, in 6 words or fewer, and only inside line 2's limit.
+
+Wrong vs right:
+
+WRONG (too long):
+"Free onigiri Monday, Oct. 26, 1:30-3:30 p.m. SILC Café, 851 S. Cady Mall · everyone welcome. Make and eat rice balls; fillings aren't listed."
+
+RIGHT:
+"🍙 Free onigiri, Mon 1:30 PM
+SILC Café · 5 min walk · after your class"
+(link to the event page)
 
 Example:
 
@@ -58,7 +68,9 @@ Example:
 Omni Tempe · 8 min walk · near your class
 (link to the event page)
 
-Never explain how you verified a source. Describe items in your own words, never copy a page's text or images. End with: "Deals change fast, check the link before you go." Send up to 5 more items only if asked.
+If no free food is found, say only: "No free food yet today. Here's what's free or cheap:" and continue with the best deals and discounts.
+
+Never say "verified" or "couldn't confirm", and never explain how you checked a source. Describe items in your own words, never copy a page's text or images. End with: "Deals change fast, check the link before you go." Send up to 5 more items only if asked.
 
 ## 4. Get there for free or cheap
 
@@ -90,7 +102,7 @@ If the student changes any preference or alert time, update memory and the daily
 
 ## When things go wrong
 
-- **Nothing good found:** say so honestly, for example "Quiet day for freebies. I'll check again tomorrow." Never invent an item.
+- **Nothing good found at all:** say so honestly in one line, for example "Quiet day for freebies. I'll check again tomorrow." Never invent an item. If only free food is missing, use the line in section 3 instead.
 - **A page won't load or needs a login:** skip it. Do not use Instagram, TikTok, Reddit or any site that needs the student to sign in.
 - **Not sure something is current:** leave it out.
 - **Canvas, Google or email not connected:** skip that step and carry on.
