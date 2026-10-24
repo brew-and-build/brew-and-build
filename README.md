@@ -1,6 +1,8 @@
 # Deals on Wheels
 
-By team Brew & Build. **Deals on Wheels** is a Cubbie Skill for ASU students. It finds free stuff near ASU and the cheapest way to get there, plus grocery runs without a car. It can also text you a short freebie list every day at a time you pick.
+by Brew & Build
+
+**Deals on Wheels** is a Cubbie Skill for ASU students. It finds free stuff near ASU and the cheapest way to get there, plus grocery runs without a car. It can also text you a short freebie list on a schedule you pick.
 
 ## Install
 
@@ -17,9 +19,9 @@ https://github.com/brew-and-build/brew-and-build/tree/main/skills/sun-devil-free
 
 ## How it works
 
-1. The first time, Cubbie asks your campus, what you want to hear about and any diet needs, and remembers your answers.
+1. The first time, Cubbie asks your campus, what you want to hear about, any diet needs, how often you want freebie texts and what time, and remembers your answers.
 2. It reads ASU's public events calendar and searches the web for free food, nearby deals and student discounts, and keeps only items that are valid now and match your interests.
-3. It texts you the top three, each with a short "how to get there" and a source link. If you picked a daily time, it repeats this every day.
+3. It texts you the top three, each with a short "how to get there" and a source link. It repeats this on the schedule you pick (every day, every other day or weekdays).
 4. For anywhere you want to go, it checks walking, free shuttles, Valley Metro and rides in that order, using current routes and fares from the web.
 5. For grocery runs, it compares plans (free, transit there and a ride back, transit both ways, rides), avoids your exams and deadlines if Canvas or Google is connected, and can draft a message for a roommate to forward.
 
