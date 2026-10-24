@@ -36,7 +36,7 @@ Before every search, use whatever the student has already connected. If somethin
 - **Busy days (Canvas due dates and exams):** on exam or deadline days, keep the message to the single best item, or skip the scheduled text if nothing is quick and nearby.
 - **Memory:** use their saved interests, diet, campus, stores and past choices. If they ignored or disliked a kind of item before, show fewer of those.
 
-When an item fits the student personally, add one personal detail to line 2, for example "near your 1 pm class" or "CS club", within the 8-word limit in section 3.
+When an item fits the student personally, add one personal detail to line 2, for example "near your 1 pm class" or "CS club", within the 10-word limit in section 3.
 
 ## 2. Find freebies
 
@@ -53,8 +53,13 @@ Open and read the actual page for every candidate. Keep an item only if the page
 Send the top 3 items, each as its own message. HARD RULE: exactly 2 lines of text per item, never a third, then the link on its own line:
 
 - Line 1: an emoji and what it is, in 8 words or fewer, with the day and time if any.
-- Line 2: where, then ALWAYS how to get there (walk time, free shuttle or light rail), plus one personal detail when one fits (for example "near your 1 pm class"). Max 8 words after the place.
-- Add a catch only if it changes whether the student would go, in 6 words or fewer, and only inside line 2's limit.
+- Line 2: the place, then ALWAYS the way to get to THAT place, in this order. Keep line 2 to the place plus at most 10 words.
+  1. Walkable (about 15 minutes or less): "8 min walk".
+  2. Else a free shuttle or light rail if one goes there: "free Orbit shuttle" or "light rail, $2". Look up the current route and fare first.
+  3. Else a ride: a rough range, always marked with "~", for example "~$8-12 Lyft". Never present it as an exact price.
+  4. If transit is possible but slow, show both, for example "light rail 25 min or ~$9 ride".
+- Add one personal detail (for example "near your 1 pm class") only when one fits inside the 10 words.
+- Add a catch only if it changes whether the student would go, in 6 words or fewer, and only inside line 2's 10-word limit.
 
 Wrong vs right:
 
@@ -68,9 +73,15 @@ SILC Café · 5 min walk · after your class"
 
 Example:
 
-🍦 Free ice cream, 3 PM
-Omni Tempe · 8 min walk · near your class
-(link to the event page)
+🍙 Free onigiri, Mon 1:30 PM
+SILC Café · 5 min walk
+(link)
+
+🍔 Smashburger 20% off with ASU ID
+Tempe Marketplace · light rail 15 min or ~$9 ride
+(link)
+
+If the student replies "ride" or "directions" to an item, send one Google Maps directions link for it on its own line, with the travel mode matching line 2 (walking, transit or driving). The format rule applies to this reply too.
 
 If no free food is found, say only: "No free food yet today. Here's what's free or cheap:" and continue with the best deals and discounts.
 

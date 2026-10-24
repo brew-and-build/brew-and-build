@@ -1,6 +1,6 @@
-# Brew & Build
+# Deals on Wheels
 
-**Sun Devil Freebies** is a Cubbie Skill for ASU students. It finds free stuff near ASU and the cheapest way to get there, plus grocery runs without a car. It can also text you a short freebie list every day at a time you pick.
+By team Brew & Build. **Deals on Wheels** is a Cubbie Skill for ASU students. It finds free stuff near ASU and the cheapest way to get there, plus grocery runs without a car. It can also text you a short freebie list every day at a time you pick.
 
 ## Install
 
